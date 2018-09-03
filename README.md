@@ -19,7 +19,7 @@ Then Visit
 http://localhost:3002
 ```
 
-## Releasing to Production
+## Releasing to Pubfbvybfbvbfybvfyb
 
 Production has Devtools, logging and hot reloading middleware removed and the scripts/css compressed. 
 
